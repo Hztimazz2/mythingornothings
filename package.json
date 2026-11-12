@@ -1,6 +1,6 @@
 {
-  "name": "vespotherthing",
-  "version": "1.0.0",
+  "name": "@your-npm-username/vespotherthing",
+  "version": "1.0.1",
   "description": "vespotherthing package",
   "main": "index.html",
   "license": "MIT"
