@@ -1,6 +1,6 @@
 {
   "name": "vespotherthing",
-  "version": "1.1.9",
+  "version": "1.0.0",
   "description": "Single-file DuckMath builds served via unpkg. Loadable as index.html or index.svg.",
   "license": "UNLICENSED",
   "homepage": "https://duckmath.org",
